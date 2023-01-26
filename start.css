@@ -1,0 +1,34 @@
+#background {
+background-image: url(/img/portatil.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+
+.logo{
+    padding-right: 20%;
+    color: white;
+}
+
+.texto{
+  text-align: center;
+  margin-top: 5%;
+}
+
+.botones{
+    display: flex;
+    justify-content: center;
+    gap: 2%;
+}
+
+.texto-letras{
+    color:white;
+    padding: 1% 10%;
+}
+
+.welcome-texto{
+   text-align: center;
+   padding-top: 2%;
+}
+
